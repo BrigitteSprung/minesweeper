@@ -15,9 +15,9 @@ A simple minesweeper game using recursion for the logic of the game and css for 
 ## Approach Taken
 Inspired by the Minesweeper project from Ania Kubow - [Minesweeper tutorial](https://www.youtube.com/watch?v=W0No1JDc6vE&ab_channel=TraversyMedia)
 Still todo:
-- [] Better Styling
-- [] Find the bug in the code
-- [] Add in extra features
+- [ ] Better Styling
+- [ ] Find the bug in the code
+- [ ] Add in extra features
 
 ## Wins and Blockers
 
