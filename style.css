@@ -1,21 +1,33 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 .grid {
     height: 400px;
     width: 400px;
     display: flex;
     flex-wrap: wrap;
-    background-color: grey;
+    background-color: burlywood;
 }
 
 /* Only divs inside the grid are affected*/ 
 .grid div{
     height: 40px;
     width: 40px;
+    text-align: center;
+    border-color: rosybrown;
+    border-style: outset;
+    border-width: 5px;
+    font-size: 20px;
+    vertical-align: middle;
 }
 
 .checked {
-    background-color: purple;
+    background-color:indianred;
 }
 
 .bomb {
-    background-color: orange;
+    /* background-color: orange; */
 }
